@@ -1,8 +1,0 @@
-psycopg2
-urllib3>=2.0.0
-jsonref
-requests
-datetime
-ccxt
-python-telegram-bot>10.0
-python-binance

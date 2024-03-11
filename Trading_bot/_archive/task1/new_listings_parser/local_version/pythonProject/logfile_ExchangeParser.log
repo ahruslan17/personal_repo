@@ -1,6 +1,0 @@
-2023-11-22 14:27:30,250 - INFO - ----SCRIPT IS STARTED----
-2023-11-22 14:27:30,497 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
-2023-11-22 14:27:30,500 - INFO - Начало цикла на обновление базы
-2023-11-22 14:28:01,733 - INFO - База данных успешно сохранена в файл: TickersDatabase.json
-2023-11-22 14:28:01,969 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
-2023-11-22 14:28:13,844 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
