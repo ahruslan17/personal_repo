@@ -1,0 +1,12 @@
+psycopg2
+asyncio>=3.0.0
+python-telegram-bot>10.0
+urllib3>=2.0.0
+jsonref
+requests
+datetime
+beautifulsoup4
+numpy
+pybit
+ccxt
+python-binance

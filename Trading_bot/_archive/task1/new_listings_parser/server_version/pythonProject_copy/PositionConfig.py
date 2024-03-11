@@ -1,0 +1,2 @@
+LEVERAGE = 2
+AMOUNT = 3

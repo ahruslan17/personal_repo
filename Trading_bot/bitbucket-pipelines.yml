@@ -1,0 +1,12 @@
+pipelines:
+  branches:
+    master:
+      - step:
+          name: Pull
+          script:
+            - echo $SERVER_USER@$SERVER_IP
+            - ssh $SERVER_USER@$SERVER_IP "uname"
+            - ssh $SERVER_USER@$SERVER_IP "cd $SERVER_APP_DIR && git checkout . && git pull"
+            - ssh $SERVER_USER@$SERVER_IP "cd $SERVER_APP_DIR && cp .env.example .env"
+            - ssh $SERVER_USER@$SERVER_IP "cd $SERVER_APP_DIR && docker compose -f docker-compose.yml build"
+            - ssh $SERVER_USER@$SERVER_IP "cd $SERVER_APP_DIR && docker compose -f docker-compose.yml up -d"

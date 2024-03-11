@@ -1,0 +1,35 @@
+version: '3.5'
+
+services:
+  database:
+    image: postgres
+    ports:
+      - "5432:5432"
+    restart: always
+    environment:
+      - POSTGRES_PASSWORD=root
+      - POSTGRES_USER=admin
+      - POSTGRES_DB=exampledb
+
+  adminer:
+    image: adminer
+    restart: always
+    depends_on:
+      - database
+    ports:
+      - 8080:8080
+
+  python_app:
+    build:
+      dockerfile: Dockerfile
+    volumes:
+      - ./path/to/your/scripts:/app
+    depends_on:
+      - database
+      
+# TODO Как-то ты странно прописал volume для бд
+volumes:
+  postgres_data:
+    
+
+
