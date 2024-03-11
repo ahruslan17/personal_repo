@@ -1,0 +1,478 @@
+2023-11-22 12:32:31,557 - INFO - getInfo is done. 1.03507661819458 sec: 
+2023-11-22 12:33:04,046 - INFO - getInfo is done. 0.31487178802490234 sec: 
+2023-11-22 12:33:44,970 - INFO - getInfo is done. 0.475081205368042 sec: 
+2023-11-29 22:21:37,841 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 401 Unauthorized"
+2023-11-29 22:21:37,842 - INFO - SetLeverage_okx is done. 0.5396151542663574 sec: 
+2023-11-29 22:21:37,863 - INFO - getFuturesSize_okx is done. 0.009998559951782227 sec: 
+2023-11-29 22:21:38,298 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AVAX-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:21:38,312 - INFO - getFuturesPrice_okx is done. 0.013001680374145508 sec: 
+2023-11-29 22:21:38,798 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=AVAX-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:21:38,809 - INFO - getFuturesPrice_okx is done. 0.009999513626098633 sec: 
+2023-11-29 22:21:39,241 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=AVAX-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:21:39,252 - INFO - getNumberAfterDot is done. 0.009995222091674805 sec: 
+2023-11-29 22:21:39,701 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AVAX-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:21:39,712 - INFO - getNumberAfterDot is done. 0.009991645812988281 sec: 
+2023-11-29 22:21:40,156 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AVAX-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:21:40,166 - INFO - getNumberAfterDot is done. 0.00999593734741211 sec: 
+2023-11-29 22:21:40,609 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AVAX-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:21:40,620 - INFO - getNumberAfterDot is done. 0.010000228881835938 sec: 
+2023-11-29 22:21:41,050 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AVAX-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:21:41,513 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 401 Unauthorized"
+2023-11-29 22:21:41,514 - INFO - FuturesEnterOrder_okx Error: 'data'
+2023-11-29 22:22:48,740 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:22:48,740 - INFO - SetLeverage_okx is done. 0.5414764881134033 sec: 
+2023-11-29 22:22:48,761 - INFO - getFuturesSize_okx is done. 0.010000228881835938 sec: 
+2023-11-29 22:22:49,266 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:22:49,277 - INFO - getFuturesPrice_okx is done. 0.010999679565429688 sec: 
+2023-11-29 22:22:49,708 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:22:49,719 - INFO - getFuturesPrice_okx is done. 0.010000228881835938 sec: 
+2023-11-29 22:22:50,196 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:22:50,207 - INFO - getNumberAfterDot is done. 0.009999513626098633 sec: 
+2023-11-29 22:22:50,650 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:22:50,660 - INFO - getNumberAfterDot is done. 0.010001182556152344 sec: 
+2023-11-29 22:22:51,128 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:22:51,139 - INFO - getNumberAfterDot is done. 0.009998559951782227 sec: 
+2023-11-29 22:22:51,600 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:22:51,611 - INFO - getNumberAfterDot is done. 0.010989904403686523 sec: 
+2023-11-29 22:22:52,074 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:22:52,551 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:22:53,039 - INFO - HTTP Request: GET https://www.okx.com/api/v5/trade/order?instId=DOGE-USDT-SWAP&ordId=650174882839392271 "HTTP/2 200 OK"
+2023-11-29 22:22:53,040 - INFO - getFuturesOrderInfo_okx is done. 0.48897385597229004 sec: 
+2023-11-29 22:22:53,312 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:22:53,586 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:22:53,589 - INFO - FuturesEnterOrder_okx is done. 5.389925479888916 sec: 
+2023-11-29 22:23:42,694 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 401 Unauthorized"
+2023-11-29 22:23:42,695 - INFO - SetLeverage_okx is done. 0.8296859264373779 sec: 
+2023-11-29 22:23:42,716 - INFO - getFuturesSize_okx is done. 0.010985612869262695 sec: 
+2023-11-29 22:23:43,167 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:23:43,177 - INFO - getFuturesPrice_okx is done. 0.009999513626098633 sec: 
+2023-11-29 22:23:43,628 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:23:43,639 - INFO - getFuturesPrice_okx is done. 0.010001897811889648 sec: 
+2023-11-29 22:23:44,094 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:23:44,105 - INFO - getNumberAfterDot is done. 0.009993791580200195 sec: 
+2023-11-29 22:23:44,569 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:23:44,580 - INFO - getNumberAfterDot is done. 0.00999903678894043 sec: 
+2023-11-29 22:23:45,049 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:23:45,060 - INFO - getNumberAfterDot is done. 0.009999990463256836 sec: 
+2023-11-29 22:23:45,545 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:23:45,556 - INFO - getNumberAfterDot is done. 0.009985685348510742 sec: 
+2023-11-29 22:23:46,003 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:23:46,463 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 401 Unauthorized"
+2023-11-29 22:23:46,463 - INFO - FuturesEnterOrder_okx Error: 'data'
+2023-11-29 22:24:28,788 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:24:28,789 - INFO - SetLeverage_okx is done. 0.5404348373413086 sec: 
+2023-11-29 22:24:28,811 - INFO - getFuturesSize_okx is done. 0.010000467300415039 sec: 
+2023-11-29 22:24:29,273 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:24:29,283 - INFO - getFuturesPrice_okx is done. 0.00999903678894043 sec: 
+2023-11-29 22:24:29,727 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:24:29,738 - INFO - getFuturesPrice_okx is done. 0.01099705696105957 sec: 
+2023-11-29 22:24:30,160 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:24:30,171 - INFO - getNumberAfterDot is done. 0.009996652603149414 sec: 
+2023-11-29 22:24:30,639 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:24:30,650 - INFO - getNumberAfterDot is done. 0.010998964309692383 sec: 
+2023-11-29 22:24:31,095 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:24:31,106 - INFO - getNumberAfterDot is done. 0.009998559951782227 sec: 
+2023-11-29 22:24:31,536 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:24:31,547 - INFO - getNumberAfterDot is done. 0.010001897811889648 sec: 
+2023-11-29 22:24:32,056 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:24:32,483 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:24:32,704 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:25:20,199 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:25:20,199 - INFO - SetLeverage_okx is done. 0.4773900508880615 sec: 
+2023-11-29 22:25:20,220 - INFO - getFuturesSize_okx is done. 0.01000070571899414 sec: 
+2023-11-29 22:25:20,683 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:25:20,694 - INFO - getFuturesPrice_okx is done. 0.009998321533203125 sec: 
+2023-11-29 22:25:21,133 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:25:21,144 - INFO - getFuturesPrice_okx is done. 0.009998798370361328 sec: 
+2023-11-29 22:25:21,621 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:25:21,632 - INFO - getNumberAfterDot is done. 0.009999513626098633 sec: 
+2023-11-29 22:25:22,091 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:25:22,102 - INFO - getNumberAfterDot is done. 0.009996652603149414 sec: 
+2023-11-29 22:25:22,603 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:25:22,613 - INFO - getNumberAfterDot is done. 0.009984970092773438 sec: 
+2023-11-29 22:25:23,053 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:25:23,064 - INFO - getNumberAfterDot is done. 0.011000394821166992 sec: 
+2023-11-29 22:25:23,496 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:25:23,931 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:25:24,205 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:27:00,481 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:27:00,482 - INFO - SetLeverage_okx is done. 0.4989011287689209 sec: 
+2023-11-29 22:27:00,503 - INFO - getFuturesSize_okx is done. 0.01100015640258789 sec: 
+2023-11-29 22:27:00,954 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:27:00,965 - INFO - getFuturesPrice_okx is done. 0.009999752044677734 sec: 
+2023-11-29 22:27:01,414 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:27:01,425 - INFO - getNumberAfterDot is done. 0.009999513626098633 sec: 
+2023-11-29 22:27:01,876 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:27:01,887 - INFO - getNumberAfterDot is done. 0.01000070571899414 sec: 
+2023-11-29 22:27:02,361 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:27:02,799 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:27:03,100 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:27:32,535 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:27:32,536 - INFO - SetLeverage_okx is done. 0.5525002479553223 sec: 
+2023-11-29 22:27:32,556 - INFO - getFuturesSize_okx is done. 0.010000228881835938 sec: 
+2023-11-29 22:27:33,016 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:27:33,027 - INFO - getFuturesPrice_okx is done. 0.009995222091674805 sec: 
+2023-11-29 22:27:33,480 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:27:33,491 - INFO - getNumberAfterDot is done. 0.009713411331176758 sec: 
+2023-11-29 22:27:33,950 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:27:33,961 - INFO - getNumberAfterDot is done. 0.009994029998779297 sec: 
+2023-11-29 22:27:34,423 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:27:34,847 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:27:35,075 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:27:45,463 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:27:45,463 - INFO - SetLeverage_okx is done. 0.49973082542419434 sec: 
+2023-11-29 22:27:45,484 - INFO - getFuturesSize_okx is done. 0.009989023208618164 sec: 
+2023-11-29 22:27:45,942 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:27:45,953 - INFO - getFuturesPrice_okx is done. 0.009999752044677734 sec: 
+2023-11-29 22:27:46,391 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:27:46,401 - INFO - getNumberAfterDot is done. 0.009998798370361328 sec: 
+2023-11-29 22:27:46,878 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:27:46,888 - INFO - getNumberAfterDot is done. 0.009999752044677734 sec: 
+2023-11-29 22:27:47,336 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:27:47,780 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:27:47,984 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:29:03,139 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:29:03,140 - INFO - SetLeverage_okx is done. 1.2674846649169922 sec: 
+2023-11-29 22:29:03,161 - INFO - getFuturesSize_okx is done. 0.010998249053955078 sec: 
+2023-11-29 22:29:03,608 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:29:03,619 - INFO - getFuturesPrice_okx is done. 0.009987831115722656 sec: 
+2023-11-29 22:29:04,061 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:29:04,071 - INFO - getNumberAfterDot is done. 0.009999513626098633 sec: 
+2023-11-29 22:29:04,557 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:29:04,567 - INFO - getNumberAfterDot is done. 0.010002613067626953 sec: 
+2023-11-29 22:29:05,063 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:29:05,519 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:29:05,794 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:29:48,248 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:29:48,249 - INFO - SetLeverage_okx is done. 0.5083837509155273 sec: 
+2023-11-29 22:29:48,269 - INFO - getFuturesSize_okx is done. 0.009997129440307617 sec: 
+2023-11-29 22:29:48,721 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:29:48,732 - INFO - getFuturesPrice_okx is done. 0.010984182357788086 sec: 
+2023-11-29 22:29:49,176 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:29:49,187 - INFO - getNumberAfterDot is done. 0.010999679565429688 sec: 
+2023-11-29 22:29:49,647 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:29:49,658 - INFO - getNumberAfterDot is done. 0.009998559951782227 sec: 
+2023-11-29 22:29:50,146 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:29:50,602 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:29:50,887 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:30:13,631 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:30:13,631 - INFO - SetLeverage_okx is done. 0.4912254810333252 sec: 
+2023-11-29 22:30:13,652 - INFO - getFuturesSize_okx is done. 0.009999990463256836 sec: 
+2023-11-29 22:30:14,117 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:30:14,128 - INFO - getFuturesPrice_okx is done. 0.009999752044677734 sec: 
+2023-11-29 22:30:14,551 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:30:14,562 - INFO - getNumberAfterDot is done. 0.010998964309692383 sec: 
+2023-11-29 22:30:15,030 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:30:15,041 - INFO - getNumberAfterDot is done. 0.01098775863647461 sec: 
+2023-11-29 22:30:15,474 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:30:15,940 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:30:16,237 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:30:57,938 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:30:57,938 - INFO - SetLeverage_okx is done. 0.5514464378356934 sec: 
+2023-11-29 22:30:57,959 - INFO - getFuturesSize_okx is done. 0.009999752044677734 sec: 
+2023-11-29 22:30:58,398 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:30:58,409 - INFO - getFuturesPrice_okx is done. 0.010982751846313477 sec: 
+2023-11-29 22:30:58,839 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:30:58,850 - INFO - getNumberAfterDot is done. 0.010000228881835938 sec: 
+2023-11-29 22:30:59,318 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:30:59,328 - INFO - getNumberAfterDot is done. 0.009985923767089844 sec: 
+2023-11-29 22:30:59,874 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:30:59,885 - INFO - getNumberAfterDot is done. 0.010999679565429688 sec: 
+2023-11-29 22:31:00,353 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:31:00,848 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:31:01,065 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:31:28,354 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:31:28,354 - INFO - SetLeverage_okx is done. 0.4800302982330322 sec: 
+2023-11-29 22:31:28,375 - INFO - getFuturesSize_okx is done. 0.009999990463256836 sec: 
+2023-11-29 22:31:28,829 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:31:28,840 - INFO - getFuturesPrice_okx is done. 0.010007381439208984 sec: 
+2023-11-29 22:31:29,598 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:31:29,608 - INFO - getNumberAfterDot is done. 0.010001420974731445 sec: 
+2023-11-29 22:31:30,073 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:31:30,084 - INFO - getNumberAfterDot is done. 0.009997367858886719 sec: 
+2023-11-29 22:31:30,545 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:31:30,556 - INFO - getNumberAfterDot is done. 0.009999990463256836 sec: 
+2023-11-29 22:31:31,326 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:31:31,776 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:31:32,033 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:31:52,968 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:31:52,968 - INFO - SetLeverage_okx is done. 0.5038025379180908 sec: 
+2023-11-29 22:31:52,989 - INFO - getFuturesSize_okx is done. 0.009999752044677734 sec: 
+2023-11-29 22:31:53,437 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:31:53,448 - INFO - getFuturesPrice_okx is done. 0.010000228881835938 sec: 
+2023-11-29 22:31:53,920 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:31:53,931 - INFO - getNumberAfterDot is done. 0.010999202728271484 sec: 
+2023-11-29 22:31:54,697 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:31:54,708 - INFO - getNumberAfterDot is done. 0.009994745254516602 sec: 
+2023-11-29 22:31:55,300 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:31:55,310 - INFO - getNumberAfterDot is done. 0.009999752044677734 sec: 
+2023-11-29 22:31:56,121 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:31:56,569 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:31:56,801 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:32:30,984 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:32:30,984 - INFO - SetLeverage_okx is done. 0.5322084426879883 sec: 
+2023-11-29 22:32:31,005 - INFO - getFuturesSize_okx is done. 0.009999990463256836 sec: 
+2023-11-29 22:32:31,453 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:32:31,464 - INFO - getFuturesPrice_okx is done. 0.009999752044677734 sec: 
+2023-11-29 22:32:31,963 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:32:31,973 - INFO - getNumberAfterDot is done. 0.00999903678894043 sec: 
+2023-11-29 22:32:32,440 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:32:32,451 - INFO - getNumberAfterDot is done. 0.010997533798217773 sec: 
+2023-11-29 22:32:32,913 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:32:32,923 - INFO - getNumberAfterDot is done. 0.009998321533203125 sec: 
+2023-11-29 22:32:33,679 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:32:34,137 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:32:34,459 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:33:23,902 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:33:23,903 - INFO - SetLeverage_okx is done. 0.5150766372680664 sec: 
+2023-11-29 22:33:23,924 - INFO - getFuturesSize_okx is done. 0.011003255844116211 sec: 
+2023-11-29 22:33:24,366 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:33:24,377 - INFO - getFuturesPrice_okx is done. 0.009999990463256836 sec: 
+2023-11-29 22:33:24,809 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:33:24,820 - INFO - getNumberAfterDot is done. 0.010996818542480469 sec: 
+2023-11-29 22:33:25,271 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:33:25,282 - INFO - getNumberAfterDot is done. 0.010999679565429688 sec: 
+2023-11-29 22:33:25,825 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:33:26,588 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:33:26,810 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:33:42,060 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:33:42,061 - INFO - SetLeverage_okx is done. 0.5012328624725342 sec: 
+2023-11-29 22:33:42,082 - INFO - getFuturesSize_okx is done. 0.010995149612426758 sec: 
+2023-11-29 22:33:42,522 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:33:42,533 - INFO - getFuturesPrice_okx is done. 0.010985136032104492 sec: 
+2023-11-29 22:33:42,981 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:33:42,992 - INFO - getNumberAfterDot is done. 0.010000467300415039 sec: 
+2023-11-29 22:33:43,433 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:33:43,444 - INFO - getNumberAfterDot is done. 0.010996341705322266 sec: 
+2023-11-29 22:33:43,911 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:33:44,385 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:33:44,696 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:33:51,928 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:33:51,928 - INFO - SetLeverage_okx is done. 0.5734636783599854 sec: 
+2023-11-29 22:33:51,949 - INFO - getFuturesSize_okx is done. 0.009999990463256836 sec: 
+2023-11-29 22:33:52,390 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:33:52,401 - INFO - getFuturesPrice_okx is done. 0.009999275207519531 sec: 
+2023-11-29 22:33:52,842 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:33:52,853 - INFO - getNumberAfterDot is done. 0.010995626449584961 sec: 
+2023-11-29 22:33:53,304 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:33:53,315 - INFO - getNumberAfterDot is done. 0.009999990463256836 sec: 
+2023-11-29 22:33:53,752 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:33:54,216 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:33:54,447 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:34:02,199 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:34:02,200 - INFO - SetLeverage_okx is done. 0.4821052551269531 sec: 
+2023-11-29 22:34:02,222 - INFO - getFuturesSize_okx is done. 0.011986970901489258 sec: 
+2023-11-29 22:34:02,678 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:34:02,689 - INFO - getFuturesPrice_okx is done. 0.009984970092773438 sec: 
+2023-11-29 22:34:03,127 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:34:03,138 - INFO - getNumberAfterDot is done. 0.010994434356689453 sec: 
+2023-11-29 22:34:03,587 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:34:03,598 - INFO - getNumberAfterDot is done. 0.00998544692993164 sec: 
+2023-11-29 22:34:04,238 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:34:04,713 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:34:04,940 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:35:18,849 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:35:18,849 - INFO - SetLeverage_okx is done. 0.48457956314086914 sec: 
+2023-11-29 22:35:18,871 - INFO - getFuturesSize_okx is done. 0.01099705696105957 sec: 
+2023-11-29 22:35:19,314 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:35:19,324 - INFO - getFuturesPrice_okx is done. 0.009999513626098633 sec: 
+2023-11-29 22:35:19,781 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:35:19,792 - INFO - getNumberAfterDot is done. 0.010999679565429688 sec: 
+2023-11-29 22:35:20,256 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:35:20,267 - INFO - getNumberAfterDot is done. 0.011007308959960938 sec: 
+2023-11-29 22:35:20,741 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:35:20,752 - INFO - getNumberAfterDot is done. 0.009999990463256836 sec: 
+2023-11-29 22:35:21,192 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:35:21,661 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:35:21,867 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:35:46,988 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:35:46,988 - INFO - SetLeverage_okx is done. 0.5084726810455322 sec: 
+2023-11-29 22:35:47,009 - INFO - getFuturesSize_okx is done. 0.009998798370361328 sec: 
+2023-11-29 22:35:47,467 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:35:47,478 - INFO - getFuturesPrice_okx is done. 0.010997772216796875 sec: 
+2023-11-29 22:35:47,915 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:35:47,926 - INFO - getNumberAfterDot is done. 0.010999202728271484 sec: 
+2023-11-29 22:35:48,393 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:35:48,403 - INFO - getNumberAfterDot is done. 0.009985923767089844 sec: 
+2023-11-29 22:35:48,858 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:35:48,869 - INFO - getNumberAfterDot is done. 0.010998249053955078 sec: 
+2023-11-29 22:35:49,284 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:35:49,710 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:35:50,011 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:46:10,300 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 401 Unauthorized"
+2023-11-29 22:46:10,300 - INFO - SetLeverage_okx is done. 0.4665257930755615 sec: 
+2023-11-29 22:46:10,321 - INFO - getFuturesSize_okx is done. 0.009998559951782227 sec: 
+2023-11-29 22:46:10,779 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=LUNC-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:46:10,790 - INFO - getFuturesPrice_okx is done. 0.011000633239746094 sec: 
+2023-11-29 22:46:11,216 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=LUNC-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:46:11,227 - INFO - getNumberAfterDot is done. 0.010000228881835938 sec: 
+2023-11-29 22:46:11,674 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=LUNC-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:46:11,685 - INFO - getNumberAfterDot is done. 0.010001420974731445 sec: 
+2023-11-29 22:46:12,124 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=LUNC-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:46:12,135 - INFO - getNumberAfterDot is done. 0.009999513626098633 sec: 
+2023-11-29 22:46:12,601 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=LUNC-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:46:13,077 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 401 Unauthorized"
+2023-11-29 22:46:13,077 - INFO - FuturesEnterOrder_okx Error: 'data'
+2023-11-29 22:46:23,039 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:46:23,039 - INFO - SetLeverage_okx is done. 0.4790515899658203 sec: 
+2023-11-29 22:46:23,060 - INFO - getFuturesSize_okx is done. 0.01000070571899414 sec: 
+2023-11-29 22:46:23,560 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=LUNC-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:46:23,561 - INFO - getFuturesPrice_okx Error: list index out of range
+2023-11-29 22:46:23,572 - INFO - getFuturesPrice_okx is done. 0.010999679565429688 sec: 
+2023-11-29 22:46:24,034 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=LUNC-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:46:24,034 - INFO - getSpotPrice_okx Error: list index out of range
+2023-11-29 22:46:24,045 - INFO - getNumberAfterDot is done. 0.011023521423339844 sec: 
+2023-11-29 22:46:24,511 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=LUNC-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:46:24,511 - INFO - getSpotPrice_okx Error: list index out of range
+2023-11-29 22:46:24,521 - INFO - getNumberAfterDot is done. 0.009998798370361328 sec: 
+2023-11-29 22:46:24,950 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=LUNC-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:46:24,950 - INFO - getSpotPrice_okx Error: list index out of range
+2023-11-29 22:46:24,960 - INFO - getNumberAfterDot is done. 0.010000467300415039 sec: 
+2023-11-29 22:46:25,415 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=LUNC-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:46:25,415 - INFO - getSpotPrice_okx Error: list index out of range
+2023-11-29 22:46:25,844 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:46:26,113 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:47:27,133 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:47:27,134 - INFO - SetLeverage_okx is done. 0.5436058044433594 sec: 
+2023-11-29 22:47:27,156 - INFO - getFuturesSize_okx is done. 0.012000083923339844 sec: 
+2023-11-29 22:47:27,616 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:47:27,630 - INFO - getFuturesPrice_okx is done. 0.013003826141357422 sec: 
+2023-11-29 22:47:28,063 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:47:28,073 - INFO - getNumberAfterDot is done. 0.009999752044677734 sec: 
+2023-11-29 22:47:28,537 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:47:28,547 - INFO - getNumberAfterDot is done. 0.009998321533203125 sec: 
+2023-11-29 22:47:29,062 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:47:29,072 - INFO - getNumberAfterDot is done. 0.00999903678894043 sec: 
+2023-11-29 22:47:29,529 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:47:30,013 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:47:30,456 - INFO - HTTP Request: GET https://www.okx.com/api/v5/trade/order?instId=DOGE-USDT-SWAP&ordId=650181079797723136 "HTTP/2 200 OK"
+2023-11-29 22:47:30,456 - INFO - getFuturesOrderInfo_okx is done. 0.44306302070617676 sec: 
+2023-11-29 22:47:30,684 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:47:30,893 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:47:30,896 - INFO - FuturesEnterOrder_okx is done. 4.304941654205322 sec: 
+2023-11-29 22:49:05,339 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:49:05,339 - INFO - SetLeverage_okx is done. 0.5004725456237793 sec: 
+2023-11-29 22:49:05,360 - INFO - getFuturesSize_okx is done. 0.011000633239746094 sec: 
+2023-11-29 22:49:06,111 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:49:06,124 - INFO - getFuturesPrice_okx is done. 0.011999845504760742 sec: 
+2023-11-29 22:49:06,571 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:49:06,582 - INFO - getNumberAfterDot is done. 0.010999917984008789 sec: 
+2023-11-29 22:49:07,041 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:49:07,051 - INFO - getNumberAfterDot is done. 0.009999752044677734 sec: 
+2023-11-29 22:49:07,488 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:49:07,499 - INFO - getNumberAfterDot is done. 0.009997844696044922 sec: 
+2023-11-29 22:49:07,981 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:49:08,497 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:49:08,948 - INFO - HTTP Request: GET https://www.okx.com/api/v5/trade/order?instId=DOGE-USDT-SWAP&ordId=650181492907307009 "HTTP/2 200 OK"
+2023-11-29 22:49:08,949 - INFO - getFuturesOrderInfo_okx is done. 0.4518916606903076 sec: 
+2023-11-29 22:49:09,488 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:49:09,753 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:49:09,756 - INFO - FuturesEnterOrder_okx is done. 4.917758226394653 sec: 
+2023-11-29 22:50:40,243 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:50:40,244 - INFO - SetLeverage_okx is done. 0.4941840171813965 sec: 
+2023-11-29 22:50:40,265 - INFO - getFuturesSize_okx is done. 0.009995460510253906 sec: 
+2023-11-29 22:50:40,721 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AIDOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:50:40,732 - INFO - getFuturesPrice_okx is done. 0.010999917984008789 sec: 
+2023-11-29 22:50:41,187 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=AIDOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:50:41,198 - INFO - getNumberAfterDot is done. 0.010999917984008789 sec: 
+2023-11-29 22:50:41,644 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AIDOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:50:41,655 - INFO - getNumberAfterDot is done. 0.010000228881835938 sec: 
+2023-11-29 22:50:42,105 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AIDOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:50:42,644 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:50:43,086 - INFO - HTTP Request: GET https://www.okx.com/api/v5/trade/order?instId=AIDOGE-USDT-SWAP&ordId=650181887792640000 "HTTP/2 200 OK"
+2023-11-29 22:50:43,086 - INFO - getFuturesOrderInfo_okx is done. 0.4419667720794678 sec: 
+2023-11-29 22:50:43,286 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:50:43,517 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:50:43,520 - INFO - FuturesEnterOrder_okx is done. 3.7698092460632324 sec: 
+2023-11-29 22:51:24,312 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:51:24,313 - INFO - SetLeverage_okx is done. 0.5640499591827393 sec: 
+2023-11-29 22:51:24,333 - INFO - getFuturesSize_okx is done. 0.010011672973632812 sec: 
+2023-11-29 22:51:24,785 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AIDOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:51:24,796 - INFO - getFuturesPrice_okx is done. 0.009999513626098633 sec: 
+2023-11-29 22:51:25,235 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=AIDOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:51:25,246 - INFO - getNumberAfterDot is done. 0.011000633239746094 sec: 
+2023-11-29 22:51:25,689 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AIDOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:51:25,700 - INFO - getNumberAfterDot is done. 0.00998687744140625 sec: 
+2023-11-29 22:51:26,163 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AIDOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:51:26,640 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:51:26,846 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:51:41,672 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:51:41,673 - INFO - SetLeverage_okx is done. 0.5050578117370605 sec: 
+2023-11-29 22:51:41,699 - INFO - getFuturesSize_okx is done. 0.013000965118408203 sec: 
+2023-11-29 22:51:42,136 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AIDOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:51:42,146 - INFO - getFuturesPrice_okx is done. 0.010022401809692383 sec: 
+2023-11-29 22:51:42,583 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=AIDOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:51:42,594 - INFO - getNumberAfterDot is done. 0.011000394821166992 sec: 
+2023-11-29 22:51:43,037 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AIDOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:51:43,047 - INFO - getNumberAfterDot is done. 0.009993791580200195 sec: 
+2023-11-29 22:51:43,490 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AIDOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:51:43,966 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:51:44,423 - INFO - HTTP Request: GET https://www.okx.com/api/v5/trade/order?instId=AIDOGE-USDT-SWAP&ordId=650182145016721428 "HTTP/2 200 OK"
+2023-11-29 22:51:44,424 - INFO - getFuturesOrderInfo_okx is done. 0.4564657211303711 sec: 
+2023-11-29 22:51:44,685 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:51:44,897 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:51:44,901 - INFO - FuturesEnterOrder_okx is done. 3.732994556427002 sec: 
+2023-11-29 22:52:00,233 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:52:00,234 - INFO - SetLeverage_okx is done. 0.47846555709838867 sec: 
+2023-11-29 22:52:00,254 - INFO - getFuturesSize_okx is done. 0.009998559951782227 sec: 
+2023-11-29 22:52:00,711 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AIDOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:52:00,722 - INFO - getFuturesPrice_okx is done. 0.009999513626098633 sec: 
+2023-11-29 22:52:01,238 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=AIDOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:52:01,248 - INFO - getNumberAfterDot is done. 0.009999990463256836 sec: 
+2023-11-29 22:52:01,699 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AIDOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:52:01,710 - INFO - getNumberAfterDot is done. 0.009999990463256836 sec: 
+2023-11-29 22:52:02,187 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=AIDOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:52:02,736 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:52:03,189 - INFO - HTTP Request: GET https://www.okx.com/api/v5/trade/order?instId=AIDOGE-USDT-SWAP&ordId=650182223735418907 "HTTP/2 200 OK"
+2023-11-29 22:52:03,190 - INFO - getFuturesOrderInfo_okx is done. 0.4535634517669678 sec: 
+2023-11-29 22:52:03,394 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:52:03,594 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:52:03,597 - INFO - FuturesEnterOrder_okx is done. 3.8406307697296143 sec: 
+2023-11-29 22:52:58,509 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:52:58,510 - INFO - SetLeverage_okx is done. 0.4958069324493408 sec: 
+2023-11-29 22:52:58,532 - INFO - getFuturesSize_okx is done. 0.011001110076904297 sec: 
+2023-11-29 22:52:58,971 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:52:58,982 - INFO - getFuturesPrice_okx is done. 0.009999752044677734 sec: 
+2023-11-29 22:52:59,465 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:52:59,476 - INFO - getNumberAfterDot is done. 0.010998964309692383 sec: 
+2023-11-29 22:52:59,921 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:52:59,932 - INFO - getNumberAfterDot is done. 0.009998559951782227 sec: 
+2023-11-29 22:53:00,409 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:53:00,904 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:53:01,374 - INFO - HTTP Request: GET https://www.okx.com/api/v5/trade/order?instId=DOGE-USDT-SWAP&ordId=650182467701305361 "HTTP/2 200 OK"
+2023-11-29 22:53:01,374 - INFO - getFuturesOrderInfo_okx is done. 0.4691789150238037 sec: 
+2023-11-29 22:53:01,809 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:53:02,085 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:53:02,088 - INFO - FuturesEnterOrder_okx is done. 4.07398533821106 sec: 
+2023-11-29 22:53:33,339 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:53:33,340 - INFO - SetLeverage_okx is done. 0.5052154064178467 sec: 
+2023-11-29 22:53:33,361 - INFO - getFuturesSize_okx is done. 0.010001897811889648 sec: 
+2023-11-29 22:53:33,839 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:53:33,850 - INFO - getFuturesPrice_okx is done. 0.009999990463256836 sec: 
+2023-11-29 22:53:34,302 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:53:34,313 - INFO - getNumberAfterDot is done. 0.010998249053955078 sec: 
+2023-11-29 22:53:34,775 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:53:34,786 - INFO - getNumberAfterDot is done. 0.009985208511352539 sec: 
+2023-11-29 22:53:35,235 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:53:35,670 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:53:36,118 - INFO - HTTP Request: GET https://www.okx.com/api/v5/trade/order?instId=DOGE-USDT-SWAP&ordId=650182613524672515 "HTTP/2 200 OK"
+2023-11-29 22:53:36,118 - INFO - getFuturesOrderInfo_okx is done. 0.447206974029541 sec: 
+2023-11-29 22:53:36,358 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:53:36,583 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:53:36,586 - INFO - FuturesEnterOrder_okx is done. 3.7509593963623047 sec: 
+2023-11-29 22:54:59,971 - INFO - HTTP Request: POST https://www.okx.com/api/v5/account/set-leverage "HTTP/2 200 OK"
+2023-11-29 22:54:59,972 - INFO - SetLeverage_okx is done. 0.5442395210266113 sec: 
+2023-11-29 22:54:59,995 - INFO - getFuturesSize_okx is done. 0.00998544692993164 sec: 
+2023-11-29 22:55:00,470 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:55:00,481 - INFO - getFuturesPrice_okx is done. 0.009985685348510742 sec: 
+2023-11-29 22:55:00,939 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/mark-price?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:55:00,950 - INFO - getNumberAfterDot is done. 0.010988473892211914 sec: 
+2023-11-29 22:55:01,451 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:55:01,462 - INFO - getNumberAfterDot is done. 0.010998249053955078 sec: 
+2023-11-29 22:55:01,901 - INFO - HTTP Request: GET https://www.okx.com/api/v5/public/instruments?instType=SWAP&instId=DOGE-USDT-SWAP "HTTP/2 200 OK"
+2023-11-29 22:55:02,378 - INFO - HTTP Request: POST https://www.okx.com/api/v5/trade/order "HTTP/2 200 OK"
+2023-11-29 22:55:02,845 - INFO - HTTP Request: GET https://www.okx.com/api/v5/trade/order?instId=DOGE-USDT-SWAP&ordId=650182977187999757 "HTTP/2 200 OK"
+2023-11-29 22:55:02,846 - INFO - getFuturesOrderInfo_okx is done. 0.4685943126678467 sec: 
+2023-11-29 22:55:03,113 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:55:03,384 - INFO - HTTP Request: POST https://api.telegram.org/bot6354808644:AAEA9pvVZj6YqvXKCyyyF9ay0q4mdXqXfxE/sendMessage "HTTP/1.1 200 OK"
+2023-11-29 22:55:03,386 - INFO - FuturesEnterOrder_okx is done. 3.9583094120025635 sec: 
